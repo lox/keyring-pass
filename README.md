@@ -1,6 +1,6 @@
 keyring-pass
 ============
-[![CI](https://github.com/lox/keyring-pass/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/lox/keyring-pass/actions/workflows/test.yml)
+[![CI](https://github.com/lox/keyring-pass/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/lox/keyring-pass/actions/workflows/test.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/lox/keyring-pass.svg)](https://pkg.go.dev/github.com/lox/keyring-pass)
 
 [`pass`](https://www.passwordstore.org/) provider for [`github.com/lox/keyring/v2`](https://github.com/lox/keyring).
